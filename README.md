@@ -1,6 +1,6 @@
  ## Cyro Photography
 * It is a portfolio one page website for Photographer's.
-* Very smooth layout.
+* Very smooth layout and Mobile Friendly (Responsibe) design.
 * Cyro create, using only __HTML__, __CSS__ & __CSS-Flex__ proterties.
 * Project Resource -
 
